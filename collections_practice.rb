@@ -28,6 +28,8 @@ def count_elements(arr)
 end
 
 def merge_data(keys, data)
+print keys
+print data
   result = []
   result << keys
   result << data
