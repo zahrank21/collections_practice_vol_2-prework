@@ -29,7 +29,7 @@ end
 
 def merge_data(keys, data)
   result = []
-  keys.each {|el| 
+  keys.each {|el|
   result << el}
   data.each {|el|
   result << el}
