@@ -26,3 +26,7 @@ def count_elements(arr)
   result << [el.first]}
   result
 end
+
+def merge_data(keys, data)
+
+end
