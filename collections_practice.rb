@@ -28,5 +28,9 @@ def count_elements(arr)
 end
 
 def merge_data(keys, data)
-
+  result = []
+  keys.each {|el| 
+  result << el}
+  data.each {|el|
+  result << el}
 end
